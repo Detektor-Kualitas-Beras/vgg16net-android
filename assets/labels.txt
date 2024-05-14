@@ -1,0 +1,9 @@
+Ir64_medium
+Ir64_not_feasible
+ir64_premium
+pandan_wangi_medium
+pandan_wangi_not_feasible
+pandan_wangi_premium
+rojo_lele_medium
+rojo_lele_not_feasible
+rojo_lele_premium
